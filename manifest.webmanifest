@@ -6,5 +6,8 @@
   "background_color": "#f6f7fb",
   "theme_color": "#111827",
   "description": "Apprendre l'alphabet tifinagh du tamazight standard marocain.",
-  "icons": []
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
 }
