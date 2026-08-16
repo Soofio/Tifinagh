@@ -1,0 +1,10 @@
+{
+  "name": "Tifinagh — Apprendre",
+  "short_name": "Tifinagh",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#111827",
+  "description": "Apprendre l'alphabet tifinagh du tamazight standard marocain.",
+  "icons": []
+}
